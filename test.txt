@@ -1,0 +1,47 @@
+王车易位 检测
+e2 e4
+e7 e5
+f1 b5
+g7 g5
+g1 f3
+f7 f5
+e1 g3
+
+兵 王 检测：
+e2 e4
+e7 e5
+f2 f3
+b8 b7
+e8 e7
+a2 a3
+f3 f4
+e7 f6
+f3 f4
+f6 f5
+
+stack over flow
+E2 e4
+A7 a6
+d1 h5
+a6 a5
+h5 f7
+
+过路兵问题：
+H2 h4
+A7 a6
+h4 h5
+g7 g5
+h5 g6
+a6 a5
+h1 h7
+a5 a4
+h7 h8
+a4 a3
+h8 g8
+b7 b6
+g8 f8
+e8 f8
+b2 a3
+f8 g7
+a3 a4
+g7 h7
